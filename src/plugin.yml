@@ -1,0 +1,9 @@
+name: Transform
+author: Aliya
+main: com.javaminecraft.Transform
+commands:
+    transformon:    
+        description: transforms the ground under you
+    transformoff:
+        description: stops transforming the ground under you
+version: 1.0
